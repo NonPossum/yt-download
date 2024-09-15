@@ -4,7 +4,7 @@
 #define HOTKEY_ID 1
 #define HOTKEY_MOD (MOD_CONTROL | MOD_SHIFT)
 #define HOTKEY_KEY 'S'
-#define OUTPUT_FILE "url_pth.txt"
+#define OUTPUT_FILE "RestOfPath\\download.txt"
 #define SLEEP_DURATION 10 // Sleep duration in milliseconds
 
 void SaveClipboardToFile(const char* filename) {
