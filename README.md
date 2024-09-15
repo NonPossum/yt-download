@@ -4,7 +4,7 @@
 This repository contains two main components:
 
 1. **Download Scripts**: Batch scripts for downloading media files from URLs. These scripts support downloading in MP4 and MP3 formats.
-2. **Clipboard Saver**: A C program that allows you to save clipboard contents to a file using a hotkey.
+2. **Clipboard Saver**: A C program that allows you to save clipboard contents to a file using a hotkey. Ctr+Shif+S
    
 ### Setup
 
